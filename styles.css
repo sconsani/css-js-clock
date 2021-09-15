@@ -1,0 +1,7 @@
+html {
+	background: white url("lavalamp-background.jpg");
+	background-size: cover;
+	font-family: 'helvetica neue';
+	text-align: center;
+	font-size: 10px;
+}
